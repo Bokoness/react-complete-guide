@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.section {
+  border: 1px solid black;
+  width: 300px;
+  margin:20px;
+  float: left;
+  padding: 25px;
+}
